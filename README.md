@@ -7,6 +7,9 @@ This is a repository that hosts a sample run through of the Resource Manager API
 + Deactivate an ESU license
 + Delete an ESU license
 
+# Tested On:
+PowerShell 7.3.7 with PowerShell Az Module 10.4.1, PowerShell Az.ConnectedMachine 0.5.0
+
 # Please note:
 This information is being provided as-is with the terms of the MIT license, with no warranty/guarantee or support.  It is free to use - and for demonstration purposes only.  The process of hardening this into your needs is a task I leave to you.
 
